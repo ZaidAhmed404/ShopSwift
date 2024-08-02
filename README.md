@@ -61,7 +61,6 @@ Shopswift is a comprehensive e-commerce solution built with Flutter, offering a 
 - **Help & Chat:** Access support and chat.
 - **Preferences:** Adjust user settings.
 - **Order Management:** View and manage orders, including processing, canceling, and delivering orders.
-- **Return Orders (Coming Soon):** Manage returns.
 
 ## Video
  
